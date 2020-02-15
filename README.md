@@ -1,1 +1,1 @@
-# for_everything_and_nothing
+# [http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html]
