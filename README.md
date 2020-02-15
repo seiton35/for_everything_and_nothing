@@ -1,7 +1,7 @@
 # ссылка
 [сайт](http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html)
 ---
-## ссылка 2
+# ссылка 2
 <http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html>
 ---
 ### наклонный жирный шрифт
